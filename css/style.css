@@ -1,0 +1,81 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.logo-color{
+    color: #289BDE;
+}
+.btn-bg-sky{
+    background-color: #289BDE;
+}
+.btn-bg{
+    background: #fff;
+}
+.btn-color{
+    color: #289BDE;
+}
+.btn-outline-sky{
+    border-color: #289BDE;
+}
+.btn:hover{
+    color: #fff;
+    background-color: #289BDE;
+}
+.btn-register:hover{
+    color: #fff;
+    background-color: #289BDE;
+    border-color: #fff;
+}
+.hover:hover{
+    color: #289BDE !important;
+    background-color: #fff;
+    border-color: #289BDE;
+}
+.margin-bottom{
+    margin-bottom: 10rem;
+}
+.heading{
+    font-size: 70px;
+}
+.text-sky{
+    color: #289BDE;
+}
+.content-bg{
+    background-color: #F4FAFD;
+}
+.p-top{
+    padding-top: 100px;
+}
+.bg-sky{
+    background-color: #289BDE;
+}
+.star{
+    color: gold;
+}
+
+/* arrow sign css */
+
+.left {
+    position: relative;
+    bottom: 1354%;
+    left: -3%;
+}
+
+.left span {
+    background: #c0e8ff;
+    padding: 15px 21px;
+    border-radius: 50%;
+    color: #11a6e3;
+}
+
+.right {
+    position: relative;
+    bottom: 1354%;
+    right: -3%;
+}
+
+.right span {
+    background: #289BDE;
+    padding: 15px 21px;
+    border-radius: 50%;
+    color: white;
+}
